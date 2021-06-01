@@ -490,10 +490,10 @@ body {
 }
 
 .address-title {
-font-size: 14px;
-line-height: 1.71;
-letter-spacing: 0.03em;
-color: var(--main-title-col);
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: var(--main-title-col);
 }
 
 .footer-item {
@@ -652,7 +652,7 @@ color: var(--main-title-col);
   background-color: rgba(0, 0, 0, 0.2);
   opacity: 1;
   transform: scale(1);
-  transition: opacity 250ms var(--timing-function),
+  transition: pacity 250ms var(--timing-function),
     transform 250ms var(--timing-function);
 }
 
